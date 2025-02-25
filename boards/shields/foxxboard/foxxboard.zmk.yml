@@ -1,0 +1,12 @@
+file_format: "1"
+id: foxxboard
+name: Foxxboard
+type: shield
+url: https://github.com/GearBoxFox/hackpad-v2
+requires: [pro_micro]
+features:
+  - keys
+  - studio
+siblings:
+  - foxxboard_left
+  - foxxboard_right
