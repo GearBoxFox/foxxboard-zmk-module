@@ -1,5 +1,5 @@
 config SHIELD_FOXXBOARD_LEFT
   def_bool $(shields_list_contains,foxxboard_left)
 
-config SHIELD_FOXXBOARD_LEFT
-  def_bool $(shields_list_contains,foxxboard_left)
+config SHIELD_FOXXBOARD_RIGHT
+  def_bool $(shields_list_contains,foxxboard_right)
